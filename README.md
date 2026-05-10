@@ -6,7 +6,7 @@ Développeur Mobile & Web basé à Yaoundé, Cameroun | UTC+1
 
 **Objectif** : Shipper des apps utiles sur Play Store et Web. Dispo freelance 25k-50k/projet, stage ou CDI.
 
-### Projets
+### 📒 Projets
 
 #### 1. Yaounde-Taxi-Price | Android KMP
 [**Code Github**](https://github.com/rayan-toukap-dev/Yaounde-Taxi-Price) | [**APK Demo**](mon-lien-drive)
@@ -26,6 +26,6 @@ App de gestion de Sprint Backlog faite pour mon cours de Software Engineering.
 Tech : React, Firebase, Context API.
 Pourquoi? MaÎtrise Scrum + temps réel + Clean Architecture.
 
-### Me contacter
+### 📞 Me contacter
 Email : toukaprayan6@gmail.com | Whatsapp: +237 6 76 13 54 97
 Dispo : Missions freelance Web/Mobile | Stage | CDI | Remote + Yaoundé
