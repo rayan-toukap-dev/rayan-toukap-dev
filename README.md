@@ -178,14 +178,14 @@ Demonstrates my grasp of Scrum, real-time data, and Clean Architecture.
 <tr>
 <td width="50%" valign="top">
 
-🇫🇷 **Missions freelance** : 25 000 – 50 000 XAF / projet
+🇫🇷 **Missions freelance** : a partir de 25k / projet | Devis en 24h sur whatsapp
 📍 **Localisation** : Yaoundé · Remote
 🤝 **Ouvert à** : Freelance · Stage · CDI
 
 </td>
 <td width="50%" valign="top">
 
-🇬🇧 **Freelance** : 25k–50k XAF/project (~$40–$85)
+🇬🇧 **Freelance** : from 25k XAF / project | Quote within 24h on WhatsApp 
 📍 **Location** : Yaoundé, Cameroon · Remote
 🤝 **Open to** : Freelance · Internship · Full-time
 
