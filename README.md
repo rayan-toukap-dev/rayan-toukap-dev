@@ -120,7 +120,7 @@ Site vitrine pour PME avec formulaire contact WhatsApp intégré. Livré en 48h.
 **Tech :** Next.js · Tailwind · Vercel · API Routes
 
 **Pourquoi ?**
-Montrer que je livre des sites pro clé en main pour 25k–50k XAF.
+Montrer que je livre des sites pro clé en main a partir de 25k XAF.
 
 </td>
 <td width="50%" valign="top">
@@ -131,7 +131,7 @@ A business showcase website for SMEs with an integrated WhatsApp contact form. D
 **Tech:** Next.js · Tailwind · Vercel · API Routes
 
 **Why?**
-To show I can deliver professional, turnkey websites for 25k–50k XAF (~$40–$85).
+To show I can deliver professional, turnkey websites from 25k XAF .
 
 </td>
 </tr>
