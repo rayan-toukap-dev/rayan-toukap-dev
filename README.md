@@ -108,7 +108,7 @@ To prove I can ship a useful native app for the Cameroonian market, fast.
 
 ### 2. Site-Vitrine-237 · Web Next.js
 
-> [Code GitHub](https://github.com/rayan-toukap-dev/Site-Vitrine-237) · [Démo Live / Live Demo](ton-lien-vercel)
+> [Code GitHub](https://github.com/rayan-toukap-dev/Site-Vitrine-237) · [Démo Live / Live Demo](https://site-vitrine-237.vercel.app)
 
 <table>
 <tr>
