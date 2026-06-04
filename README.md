@@ -209,7 +209,7 @@ En complément du développement, je crée des visuels professionnels :
 - 🏷️ Branding & identité visuelle
 - 📊 Supports marketing
 https://github.com/rayan-toukap-dev/portfolio-design.git
-👉 [Identité visuelle KAMBA](./porfolio-design/IdentiteVisuelKAMBA/) · [Kit MBOA FEST](./porfolio-design/KitMarketingMboaFest/) · [Nuit Culturelle 237](./porfolio-design/KitNuitCulturel/)
+👉 [Identité visuelle KAMBA](https://github.com/rayan-toukap-dev/portfolio-design/IdentiteVisuelKAMBA/) · [Kit MBOA FEST](https://github.com/rayan-toukap-dev/portfolio-design/KitMarketingMboaFest/) · [Nuit Culturelle 237](https://github.com/rayan-toukap-dev/portfolio-design/KitNuitCulturel/)
 
 </td>
 <td width="50%" valign="top">
@@ -221,7 +221,7 @@ Alongside development, I create professional visuals:
 - 🏷️ Branding & visual identity
 - 📊 Marketing materials
 
-👉 [KAMBA visual identity](./porfolio-design/IdentiteVisuelKAMBA/) · [MBOA FEST kit](./porfolio-design/KitMarketingMboaFest/) · [Nuit Culturelle 237](./porfolio-design/KitNuitCulturel/)
+👉 [KAMBA visual identity](https://github.com/rayan-toukap-dev/portfolio-design/IdentiteVisuelKAMBA/) · [MBOA FEST kit](https://github.com/rayan-toukap-dev/portfolio-design/KitMarketingMboaFest/) · [Nuit Culturelle 237](https://github.com/rayan-toukap-dev/portfolio-design/KitNuitCulturel/)
 
 </td>
 </tr>
