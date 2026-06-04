@@ -208,7 +208,7 @@ En complément du développement, je crée des visuels professionnels :
 - 📱 Contenus réseaux sociaux
 - 🏷️ Branding & identité visuelle
 - 📊 Supports marketing
-https://github.com/rayan-toukap-dev/portfolio-design.git
+
 👉 [Identité visuelle KAMBA](https://github.com/rayan-toukap-dev/portfolio-design/IdentiteVisuelKAMBA/) · [Kit MBOA FEST](https://github.com/rayan-toukap-dev/portfolio-design/KitMarketingMboaFest/) · [Nuit Culturelle 237](https://github.com/rayan-toukap-dev/portfolio-design/KitNuitCulturel/)
 
 </td>
