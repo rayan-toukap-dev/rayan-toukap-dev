@@ -8,10 +8,25 @@
 <td align="center" width="50%">🇬🇧 <strong>English</strong></td>
 </tr>
 <tr>
-<td align="center">Développeur Mobile & Web · Yaoundé, Cameroun · UTC+1</td>
-<td align="center">Mobile & Web Developer · Yaoundé, Cameroon · UTC+1</td>
+<td align="center">Développeur Mobile & Web · Graphiste · Yaoundé, Cameroun · UTC+1</td>
+<td align="center">Mobile & Web Developer · Graphic Designer · Yaoundé, Cameroon · UTC+1</td>
 </tr>
 </table>
+
+<br/>
+
+<!-- Navigation rapide / Quick navigation -->
+**Tu cherches / Looking for :**
+
+[💻 Développeur](#-projets--projects) · [🎨 Graphiste](#-portfolio-design--design-portfolio) · [💼 Freelance](#-disponibilité--availability) · [📞 Contact](#-contact)
+
+<br/>
+
+<!-- Badges profil -->
+![Mobile](https://img.shields.io/badge/Android-Kotlin%20%7C%20Jetpack%20Compose-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Web](https://img.shields.io/badge/Web-React%20%7C%20Next.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Design](https://img.shields.io/badge/Design-Canva%20%7C%20Figma-FF6B6B?style=flat-square&logo=canva&logoColor=white)
+![Freelance](https://img.shields.io/badge/Freelance-Disponible%20%2F%20Available-28a745?style=flat-square)
 
 </div>
 
@@ -23,18 +38,22 @@
 <tr>
 <td width="50%" valign="top">
 
-Je shippe des apps utiles, vite et proprement.
-Spécialisé en Android natif (Kotlin / Jetpack Compose) et Web moderne (React / Next.js),
-avec une vraie culture **Clean Architecture** et **Scrum**.
+Je construis des produits utiles, vite et proprement.
+
+Spécialisé en **Android natif** (Kotlin / Jetpack Compose) et **Web moderne** (React / Next.js), avec une vraie culture **Clean Architecture** et **Scrum**.
+
+Ce qui me différencie : je maîtrise aussi le **design graphique** — je livre des produits techniquement solides *et* visuellement soignés, sans avoir besoin d'un graphiste externe.
 
 Disponible en **freelance**, **stage** ou **CDI** — remote ou Yaoundé.
 
 </td>
 <td width="50%" valign="top">
 
-I ship useful apps, fast and clean.
-Specialized in native Android (Kotlin / Jetpack Compose) and modern Web (React / Next.js),
-with a solid culture of **Clean Architecture** and **Scrum**.
+I build useful products, fast and clean.
+
+Specialized in **native Android** (Kotlin / Jetpack Compose) and **modern Web** (React / Next.js), with a solid culture of **Clean Architecture** and **Scrum**.
+
+What sets me apart: I also master **graphic design** — I deliver technically solid *and* visually polished products, without needing an external designer.
 
 Available for **freelance**, **internship** or **full-time** — remote or Yaoundé.
 
@@ -66,6 +85,11 @@ Available for **freelance**, **internship** or **full-time** — remote or Yaoun
 <td><strong>⚙️ Autres / Other</strong></td>
 <td>Git · Scrum · Clean Architecture · API REST</td>
 <td>Git · Scrum · Clean Architecture · REST API</td>
+</tr>
+<tr>
+<td><strong>🎨 Design</strong></td>
+<td>Canva · Figma · Photoshop · Illustrator · HTML/CSS</td>
+<td>Canva · Figma · Photoshop · Illustrator · HTML/CSS</td>
 </tr>
 </table>
 
@@ -120,7 +144,7 @@ Site vitrine pour PME avec formulaire contact WhatsApp intégré. Livré en 48h.
 **Tech :** Next.js · Tailwind · Vercel · API Routes
 
 **Pourquoi ?**
-Montrer que je livre des sites pro clé en main a partir de 25k XAF.
+Montrer que je livre des sites pro clé en main à partir de 25k XAF.
 
 </td>
 <td width="50%" valign="top">
@@ -131,7 +155,7 @@ A business showcase website for SMEs with an integrated WhatsApp contact form. D
 **Tech:** Next.js · Tailwind · Vercel · API Routes
 
 **Why?**
-To show I can deliver professional, turnkey websites from 25k XAF .
+To show I can deliver professional, turnkey websites from 25k XAF.
 
 </td>
 </tr>
@@ -172,22 +196,59 @@ Demonstrates my grasp of Scrum, real-time data, and Clean Architecture.
 
 ---
 
+## 🎨 Portfolio Design / Design Portfolio
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+En complément du développement, je crée des visuels professionnels :
+
+- 🖼️ Flyers & affiches événementielles
+- 📱 Contenus réseaux sociaux
+- 🏷️ Branding & identité visuelle
+- 📊 Supports marketing
+
+👉 [Identité visuelle KAMBA](./RLDev/IdentiteVisuelKAMBA/) · [Kit MBOA FEST](./RLDev/KitMarketingMboaFest/) · [Nuit Culturelle 237](./RLDev/KitNuitCulturel/)
+
+</td>
+<td width="50%" valign="top">
+
+Alongside development, I create professional visuals:
+
+- 🖼️ Flyers & event posters
+- 📱 Social media content
+- 🏷️ Branding & visual identity
+- 📊 Marketing materials
+
+👉 [KAMBA visual identity](./RLDev/IdentiteVisuelKAMBA/) · [MBOA FEST kit](./RLDev/KitMarketingMboaFest/) · [Nuit Culturelle 237](./RLDev/KitNuitCulturel/)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 💼 Disponibilité / Availability
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-🇫🇷 **Missions freelance** : a partir de 25k / projet | Devis en 24h sur whatsapp
+💻 **Dev freelance** : à partir de 25k XAF / projet
+🎨 **Design freelance** : à partir de 15k XAF / projet
 📍 **Localisation** : Yaoundé · Remote
 🤝 **Ouvert à** : Freelance · Stage · CDI
+📲 Devis en 24h sur WhatsApp
 
 </td>
 <td width="50%" valign="top">
 
-🇬🇧 **Freelance** : from 25k XAF / project | Quote within 24h on WhatsApp 
+💻 **Dev freelance** : from 25k XAF / project
+🎨 **Design freelance** : from 15k XAF / project
 📍 **Location** : Yaoundé, Cameroon · Remote
 🤝 **Open to** : Freelance · Internship · Full-time
+📲 Quote within 24h on WhatsApp
 
 </td>
 </tr>
