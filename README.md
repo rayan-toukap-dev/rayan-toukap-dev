@@ -209,7 +209,7 @@ En complément du développement, je crée des visuels professionnels :
 - 🏷️ Branding & identité visuelle
 - 📊 Supports marketing
 
-👉 [Identité visuelle KAMBA](https://github.com/rayan-toukap-dev/portfolio-design/tree/main/IdentiteVisuelleKAMBA) · [Kit MBOA FEST](https://github.com/rayan-toukap-dev/portfolio-design/tree/main/KitMarketingMboaFest) · [Nuit Culturelle 237](https://github.com/rayan-toukap-dev/portfolio-design/KitNuitCulturel)
+👉 [Identité visuelle KAMBA](https://github.com/rayan-toukap-dev/portfolio-design/tree/main/IdentiteVisuelleKAMBA) · [Kit MBOA FEST](https://github.com/rayan-toukap-dev/portfolio-design/tree/main/KitMarketingMboaFest) · [Nuit Culturelle 237](https://github.com/rayan-toukap-dev/portfolio-design/tree/main/KitNuitCulturel)
 
 </td>
 <td width="50%" valign="top">
