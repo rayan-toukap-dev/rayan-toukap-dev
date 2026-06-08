@@ -227,6 +227,8 @@ To prove I can ship a complete business tool in Python in a single day.
 </tr>
 </table>
 
+--- 
+
 ## 🎨 Portfolio Design / Design Portfolio
 
 <table>
