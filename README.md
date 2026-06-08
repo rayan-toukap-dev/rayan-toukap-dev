@@ -198,7 +198,7 @@ Demonstrates my grasp of Scrum, real-time data, and Clean Architecture.
 
 ### 4. Stock-manager · Mini-ERP Python
 
-> [Code GitHub](https://github.com/rayan-toukap-dev/gestivente) · [Démo Live](https://stock-manager-txkf.onrender.com)
+> [Code GitHub](https://github.com/rayan-toukap-dev/Stock-manager) · [Démo Live](https://stock-manager-txkf.onrender.com)
 
 <table>
 <tr>
