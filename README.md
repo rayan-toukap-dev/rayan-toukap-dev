@@ -83,8 +83,8 @@ Available for **freelance**, **internship** or **full-time** — remote or Yaoun
 </tr>
 <tr>
 <td><strong>⚙️ Autres / Other</strong></td>
-<td>Git · Scrum · Clean Architecture · API REST</td>
-<td>Git · Scrum · Clean Architecture · REST API</td>
+<td>Python · Git · Scrum · Clean Architecture · API REST</td>
+<td>Python · Git · Scrum · Clean Architecture · REST API</td>
 </tr>
 <tr>
 <td><strong>🎨 Design</strong></td>
@@ -195,6 +195,37 @@ Demonstrates my grasp of Scrum, real-time data, and Clean Architecture.
 </table>
 
 ---
+
+### 4. GestiVente · Mini-ERP Python
+
+> [Code GitHub](https://github.com/rayan-toukap-dev/gestivente) · [Démo Live](https://gestivente.onrender.com)
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Ce que c'est :**
+Mini-ERP de gestion des ventes et du stock pour commerce de détail.
+
+**Tech :** Python · Flask · SQLite · Chart.js
+
+**Pourquoi ?**
+Prouver que je peux livrer un outil métier complet en Python en 1 journée.
+
+</td>
+<td width="50%" valign="top">
+
+**What it is:**
+A mini ERP for sales and inventory management for retail businesses.
+
+**Tech:** Python · Flask · SQLite · Chart.js
+
+**Why?**
+To prove I can ship a complete business tool in Python in a single day.
+
+</td>
+</tr>
+</table>
 
 ## 🎨 Portfolio Design / Design Portfolio
 
